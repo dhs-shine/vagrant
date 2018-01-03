@@ -1,5 +1,6 @@
 ## Next version (Unreleased)
 
+
 FEATURES:
 
   - core: Provide mechanism for removing sensitive data from output [GH-9276]
